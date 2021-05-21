@@ -1,0 +1,4 @@
+{
+ "fileUris": ["https://raw.githubusercontent.com/Svanekongen/Linux/main/Install_nginx.sh?token=AHDJTUYA5VBS4F5TWXZMGTDAVADZU"],
+ "commandToExecute": "./Install_nginx.sh"
+}
